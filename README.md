@@ -9,10 +9,10 @@
 
 
 ### Ландшафт / Landscape
-* https://uengine.ru/category/docs/landscape (отличный список всех возможностей работы над ланшафтом)
+* [uengine.ru - отличный список всех возможностей работы над ланшафтом](https://uengine.ru/category/docs/landscape)
 
 ### Документация
-* ![en] https://docs.unrealengine.com/latest/INT/
+* ![][en] [docs.unrealengine.com - оффициальная документация](https://docs.unrealengine.com/latest/INT/)
 
 ## Общие статьи про GameDev 
 * ![][habr] [Как начать разрабатывать игры даже если до этого вы были бухгалтером](https://habrahabr.ru/post/191236/)
@@ -20,6 +20,10 @@
 
 ## 3D моделирование
 * [3dmir.ru - Создание персонажа для игры - полный цикл](http://www.3dmir.ru/s_tutor/tutor/452.html)
+
+## Сообщества
+* [GameDev.ru - ВК группа, выкладывают работы инди разработчиков и полезные ссылки. Так-же можно  найти людей в команду](https://vk.com/gamedev_ru)
+
 
 
 ![youtube]
