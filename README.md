@@ -1,6 +1,7 @@
 # Список ссылок на документацию, уроки и видео для разработки игр на базе UE4
 
 ### YouTube каналы
+* [Unreal Engine Rus - Самый крутой канал, где чувак сделал 2 игровых прототипа, выживалка и шутер](https://www.youtube.com/channel/UCLbkGIcYJxxL0tciH9RVebg)
 * [INDI DEV - много уроков на все темы](https://www.youtube.com/channel/UC2C7OCZkBbDq1b-5kRzVawA/videos)
 * [Video and Tutorials - неплохие уроки про Multiplayer и в целом про UE](https://www.youtube.com/channel/UCX9Dv2nQFlznRgbsB3R9gDg/videos)
 * [Богдан Коровин - выкладывает всякие демки, иногда уроки](https://www.youtube.com/user/lRoyalWingl/videos)
