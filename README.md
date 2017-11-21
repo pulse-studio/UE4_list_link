@@ -30,6 +30,15 @@
 
 ### YouTube каналы
 * ![][en] [Brackeys - чувак делает игры, и показываем примеры по Unity. Очень позитивный.](https://www.youtube.com/user/Brackeys)
+* ![][ru] [Иван Карманов - Серия уроков по созданию игры от третьего лица](https://www.youtube.com/watch?v=bms9sus5AdQ&list=PLXiy3FutDt0yTfoa0a1lDVBCbrk4_fbEw)
+
+
+
+
+
+
+
+
 
 
 ![youtube]
