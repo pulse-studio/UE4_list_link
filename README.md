@@ -5,11 +5,21 @@
 * ![][ru] [INDI DEV - много уроков на все темы](https://www.youtube.com/channel/UC2C7OCZkBbDq1b-5kRzVawA/videos)
 * ![][ru] [Video and Tutorials - неплохие уроки про Multiplayer и в целом про UE](https://www.youtube.com/channel/UCX9Dv2nQFlznRgbsB3R9gDg/videos)
 * ![][ru] [Богдан Коровин - выкладывает всякие демки, иногда уроки](https://www.youtube.com/user/lRoyalWingl/videos)
-* ![][ru] [Grez - Есть уроки по 3d моделированию и созданию модов для игры STALKER](https://www.youtube.com/user/stalkergrez2013)
+* ![][ru] [Dr Jerebets - Уроки по UE4, старые уроки](https://www.youtube.com/channel/UC-6iwgypaILb8boiCW-bBCA/videos)
+* ![][en] [Peter L. Newton - хорошие уроки по UE4](https://www.youtube.com/user/PeterLNewton/videos)
 
+### Полезные видео
+* ![][youtube] ![][en] [Работа с материалами в UE4](https://www.youtube.com/watch?v=TttBtQSMOp0)
+
+
+### Сообщества
+* ![][ru] [GameDev.ru - ВК группа, выкладывают работы инди разработчиков и полезные ссылки. Так-же можно  найти людей в команду](https://vk.com/gamedev_ru)
+* ![][ru] [uengine.ru - Уроки, форум, документация, можно задать вопросы](https://vk.com/uengine)
+* ![][ru] [Unreal Engine Development - ВК группа, выкладывают работы, полезные ссылки и видео.](https://vk.com/uedev)
 
 ### Ландшафт / Landscape
 * ![][ru] [uengine.ru - отличный список всех возможностей работы над ланшафтом](https://uengine.ru/category/docs/landscape)
+* ![][youtube] ![][en] [Текстурирование ланшафта](https://www.youtube.com/watch?v=tsXVP0fykBM)
 
 ### Документация
 * ![][en] [docs.unrealengine.com - оффициальная документация](https://docs.unrealengine.com/latest/INT/)
@@ -18,18 +28,16 @@
 * ![][habr] [Как начать разрабатывать игры даже если до этого вы были бухгалтером](https://habrahabr.ru/post/191236/)
 * ![][habr] [Разработка игры для веб и мобильных устройств на Unreal Engine 4 — советы евангелиста Epic Games](https://vc.ru/8278-ue4)
 
-
-### 3D моделирование
-* ![][ru] [3dmir.ru - Создание персонажа для игры - полный цикл](http://www.3dmir.ru/s_tutor/tutor/452.html)
-
-### Сообщества
-* ![][ru] [GameDev.ru - ВК группа, выкладывают работы инди разработчиков и полезные ссылки. Так-же можно  найти людей в команду](https://vk.com/gamedev_ru)
-* ![][ru] [uengine.ru - Уроки, форум, документация, можно задать вопросы](https://vk.com/uengine)
-* ![][ru] [Unreal Engine Development - ВК группа, выкладывают работы, полезные ссылки и видео.](https://vk.com/uedev)
-
-
 ### Инструменты
 * [Umodel - Распаковка готовых проектов на UE, полезная тузла](http://www.gildor.org/projects/umodel)
+
+# 3D моделирование
+### YouTube каналы
+* ![][ru] [Grez - Есть уроки по 3d моделированию и созданию модов для игры STALKER](https://www.youtube.com/user/stalkergrez2013)
+
+### Общие статьи по 3d моделированию
+* ![][ru] [3dmir.ru - Создание персонажа для игры - полный цикл](http://www.3dmir.ru/s_tutor/tutor/452.html)
+
 
 # Другие движки
 ## Unity
