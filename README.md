@@ -5,7 +5,7 @@
 * ![][ru] [INDI DEV - много уроков на все темы](https://www.youtube.com/channel/UC2C7OCZkBbDq1b-5kRzVawA/videos)
 * ![][ru] [Video and Tutorials - неплохие уроки про Multiplayer и в целом про UE](https://www.youtube.com/channel/UCX9Dv2nQFlznRgbsB3R9gDg/videos)
 * ![][ru] [Богдан Коровин - выкладывает всякие демки, иногда уроки](https://www.youtube.com/user/lRoyalWingl/videos)
-
+* ![][ru] [Grez - Есть уроки по 3d моделированию и созданию модов для игры STALKER](https://www.youtube.com/user/stalkergrez2013)
 
 
 ### Ландшафт / Landscape
