@@ -25,6 +25,7 @@
 * ![][en] [docs.unrealengine.com - оффициальная документация](https://docs.unrealengine.com/latest/INT/)
 
 ### Общие статьи про GameDev 
+* ![][habr] [Туториал по Unreal Engine. Часть 1: знакомство с движком](https://habrahabr.ru/post/344394)
 * ![][habr] [Как начать разрабатывать игры даже если до этого вы были бухгалтером](https://habrahabr.ru/post/191236/)
 * ![][habr] [Разработка игры для веб и мобильных устройств на Unreal Engine 4 — советы евангелиста Epic Games](https://vc.ru/8278-ue4)
 
