@@ -29,6 +29,7 @@
 * ![][habr] [Туториал по Unreal Engine. Часть 2: Blueprints](https://habrahabr.ru/post/344446/)
 * ![][habr] [Туториал по Unreal Engine. Часть 3: материалы](https://habrahabr.ru/post/344522)
 * ![][habr] [Туториал по Unreal Engine. Часть 4: UI](https://habrahabr.ru/post/344600/)
+* ![][habr] [Туториал по Unreal Engine. Часть 5: Как создать простую игру](https://habrahabr.ru/post/344690)
 * ![][habr] [Как начать разрабатывать игры даже если до этого вы были бухгалтером](https://habrahabr.ru/post/191236/)
 * ![][habr] [Разработка игры для веб и мобильных устройств на Unreal Engine 4 — советы евангелиста Epic Games](https://vc.ru/8278-ue4)
 
